@@ -1,7 +1,9 @@
 # TechBench dump 
-Generated on 2016-07-12T23:18:53+0200 using:<br/> 
+Generated on 2016-07-13T18:12:26+0200 using:<br/> 
 curl 7.49.1 (x86_64-pc-win32) libcurl/7.49.1 OpenSSL/1.0.2h nghttp2/1.11.1<br/> 
 BusyBox v1.26.0.git (2016-07-12 14:57:42 CEST) multi-call binary.<br/> 
+
+Number of products: 145<br/> 
 
 ### Windows 7 Home Basic SP1 [ID: 2]
 
