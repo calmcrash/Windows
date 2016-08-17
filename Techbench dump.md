@@ -1,3 +1,6 @@
+# All links are dead
+
+
 # TechBench dump 
 Generated on 2016-08-14T19:08:26+0200 using:<br> 
 curl 7.50.1 (x86_64-pc-win32) libcurl/7.50.1 WinSSL zlib/1.2.8<br> 
